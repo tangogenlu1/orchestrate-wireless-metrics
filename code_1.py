@@ -1,69 +1,77 @@
-        print(f"Random Number: {item}")
+    const data = generateRandomData();
+    for (let i = 0; i < 10; i++) {
+        console.log("Random Number: " + item);
 
-    return data
-    for item in data:
+main();
+    const data = [];
+
+function main() {
+    });
+    return data;
+}
+    }
+function generateRandomData() {
+    data.forEach(item => {
+        data.push(Math.floor(Math.random() * 100) + 1);
+}
 def generate_random_data():
-
     main()
-import random
+    for item in data:
 
-if __name__ == "__main__":
     data = [random.randint(1, 100) for _ in range(10)]
+    return data
 def main():
     data = generate_random_data()
-        data.push(Math.floor(Math.random() * 100) + 1);
+
+
+        print(f"Random Number: {item}")
+
+if __name__ == "__main__":
+import randomfunction generateRandomData() {
+}
+
     for (let i = 0; i < 10; i++) {
+    const data = generateRandomData();
     }
 
-
-        console.log("Random Number: " + item);
-    });
-    const data = generateRandomData();
 main();
 function main() {
-function generateRandomData() {
+        data.push(Math.floor(Math.random() * 100) + 1);
 }
-}
-    data.forEach(item => {
+        console.log("Random Number: " + item);
+    });
+
     const data = [];
+    data.forEach(item => {
     return data;
-    for item in data:
-    data = generate_random_data()
-import random
-    return data
+        data.push(Math.floor(Math.random() * 100) + 1);
+    }
+}
+        console.log("Random Number: " + item);
 
+function main() {
+    data.forEach(item => {
+main();
+    });
+    for (let i = 0; i < 10; i++) {
+    const data = [];
+function generateRandomData() {
+    return data;
+}
+    const data = generateRandomData();
+    }
+    });
 
+function generateRandomData() {
+function main() {
+    const data = [];
+    data.forEach(item => {
+    const data = generateRandomData();
+}
+        data.push(Math.floor(Math.random() * 100) + 1);
+main();
+}
+    for (let i = 0; i < 10; i++) {
 
-        print(f"Random Number: {item}")
-    data = [random.randint(1, 100) for _ in range(10)]
-if __name__ == "__main__":
-    main()
-
-def generate_random_data():
-def main():def main():
-    for item in data:
-import random
-    return data
-
-    main()
-    data = [random.randint(1, 100) for _ in range(10)]
-    data = generate_random_data()
-def generate_random_data():
-
-if __name__ == "__main__":
-
-
-        print(f"Random Number: {item}")    for item in data:
-
-    data = [random.randint(1, 100) for _ in range(10)]
-def generate_random_data():
-def main():
-
-import random
-    return data
-if __name__ == "__main__":
-
-    data = generate_random_data()
-
-    main()
-        print(f"Random Number: {item}")
+        console.log("Random Number: " + item);
+    return data;
